@@ -9,7 +9,7 @@
 
 _Democratizing precision medicine through AI-powered variant pathogenicity prediction_
 
-[🎥 Video Presentation](https://youtu.be/r9ojxueKBjg) | [📊 Research Paper](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
+[📊 Research Paper](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
 
 </div>
 
